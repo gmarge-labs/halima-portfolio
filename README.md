@@ -21,3 +21,15 @@ This site highlights my data science experience, selected projects, technical sk
 - HTML
 - CSS
 - JavaScript
+
+## Live Site
+
+Coming soon.
+
+## Run Locally
+
+```bash
+python3 -m http.server 8000
+```
+
+Then open `http://localhost:8000`.
